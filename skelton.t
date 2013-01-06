@@ -8,4 +8,4 @@ BEGIN {
     use Test::More; #TODO please specify test plan.
 }
 
-done_testing();
+done_testing;
